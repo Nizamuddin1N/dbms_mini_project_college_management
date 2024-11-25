@@ -1,0 +1,1 @@
+# dbms_mini_project_college_management
